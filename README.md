@@ -3,7 +3,7 @@
 
  Eu me chamo Sabrina coutinho santos, tenho 17 anos e sou natural de São paulo. estou no terceiro ano do ensino médio, estou fazendo curso de ingles e marketing.Atualmente, estou trabalhando em uma livraria. Sou apaixonada pela internet, e daqui um tempinho me vejo trabalhando através dela. 
 
-        />
+         />
     </a> 
     <a href="https://github.com/Elahsantos?tab=repositories&sort=stargazers">
         <img 
@@ -22,6 +22,7 @@
 </p>
 
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 
