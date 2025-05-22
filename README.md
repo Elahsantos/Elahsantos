@@ -1,7 +1,7 @@
 # 🥇 Sabrina
 **`Desenvolvedora FullStack`**
 
-Me chamo Sabrina coutinho santos, tenho 17 anos e sou natural de São paulo. estou no terceiro ano do ensino médio, estou fazendo curso de ingles e marketing.Atualmente, estou trabalhando em uma livraria. Sou apaixonada pela internet, e daqui um tempinho me vejo trabalando através dela. 
+ Eu me chamo Sabrina coutinho santos, tenho 17 anos e sou natural de São paulo. estou no terceiro ano do ensino médio, estou fazendo curso de ingles e marketing.Atualmente, estou trabalhando em uma livraria. Sou apaixonada pela internet, e daqui um tempinho me vejo trabalhando através dela. 
 
         />
     </a> 
@@ -149,14 +149,14 @@ Me chamo Sabrina coutinho santos, tenho 17 anos e sou natural de São paulo. est
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Elahsantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elahsantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
